@@ -1,0 +1,61 @@
+Question 8:
+
+Problem #1:
+
+%Strart the utility from linux using the command
+dq.
+
+->dq
+
+% In order to access the relation ABC,
+the command rel<relation name>.
+
+->rel<ABC>
+
+% Now, I need to show the structure data,
+then I use the command di.
+
+->di
+
+Problem 2#
+
+%Strart the utility from linux using the command
+dq.
+
+->dq
+
+% In order to access the relation ABC,
+the command rel<relation name>.
+
+->rel<XYZ>
+
+%In order to read the first and the last value 
+we need to use both commands re f and re l,
+respectively, then:
+
+-> re f
+-> re l
+
+Problem #3:
+
+% Start the utility from Linux using the command
+dq.
+
+->dq
+
+% In order to access the relation ABC,
+the command rel<relation name>.
+
+->rel<XYZ>
+
+%For reading the key value 10, it is needed to use the commands 
+key<> and re k.
+
+->key<10>
+-> re k
+%For reading the next two records, I can use the re n command twice.
+
+-> re n
+-> re n
+
+ 
